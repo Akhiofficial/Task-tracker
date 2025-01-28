@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Akhiofficial/task-tracker/static/css/main.8d9cacbd.css",
+    "main.js": "/Akhiofficial/task-tracker/static/js/main.bc7251de.js",
+    "index.html": "/Akhiofficial/task-tracker/index.html",
+    "main.8d9cacbd.css.map": "/Akhiofficial/task-tracker/static/css/main.8d9cacbd.css.map",
+    "main.bc7251de.js.map": "/Akhiofficial/task-tracker/static/js/main.bc7251de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d9cacbd.css",
+    "static/js/main.bc7251de.js"
+  ]
+}
